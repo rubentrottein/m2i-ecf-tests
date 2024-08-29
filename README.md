@@ -15,6 +15,10 @@ Nous avons les tests back-end
 + [x] updateTodo change le statut d'une tâche
 
 ## les tests d'API
-+ [ ] test de rendu du formulaire 
++ [x] Test du GET all
++ [x] Test du POST create
+
+## Test Render
++ [ ] test de rendu du formulaire
 
 Je m'arrête aux tests de formulaires (erreur d'import pour @testing-library/jest-dom)
